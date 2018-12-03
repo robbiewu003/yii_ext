@@ -3,7 +3,7 @@
   "type": "yii2-extension",
   "autoload": {
       "psr-4": {
-      "robbiewu003\\yii_ext\\": ""
+      "myext": ""
     }
   },
   "repositories": [
@@ -12,5 +12,5 @@
       "type": "git"
     }
   ]
-  
+
 }
