@@ -6,7 +6,7 @@
  * Time: 11:43
  */
 
-namespace app\modules\ext;
+namespace myext\modules;
 
 class ExtModule extends \yii\base\Module{
 
