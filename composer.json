@@ -1,9 +1,15 @@
-
-{"name": "robbiewu003/yii_ext",
+{
+  "name": "robbiewu003/yii_ext",
   "type": "yii2-extension",
   "autoload": {
       "psr-4": {
       "robbiewu003\\yii_ext\\": ""
     }
-  }
+  },
+  "repositories": [
+    {
+      "url": "https://github.com/robbiewu003/yii_ext.git",
+      "type": "git"
+    }
+  ],
 }
