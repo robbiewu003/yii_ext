@@ -1,0 +1,10 @@
+
+{"name": "robbiewu003/yii_ext",
+  "type": "yii2-extension",
+  "minimum-stability": "dev",
+  "autoload": {
+      "psr-4": {
+      "robbiewu003\\yii_ext\\": ""
+    }
+  }
+}
