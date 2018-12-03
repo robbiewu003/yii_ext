@@ -8,7 +8,7 @@
 
 namespace myext\components;
 
-class myext {
+class ExtComponent {
 
     function getName(){
         echo 'this is myext';
